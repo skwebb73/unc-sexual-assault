@@ -3,16 +3,13 @@ var lon = [];
 var markers = [];
 var mapDate = [];
 var description = [];
-var oms = new OverlappingMarkerSpiderfier(map, {
-  markersWontMove: true,
-  markersWontHide: true,
-  basicFormatEvents: true
-});
+
 
 $(document).ready(function(){
   console.log("ready");
   //loadData();
   startLoadXml();
+  console.log("start");
   });
 
 //loading the JSON file if I do JSON
@@ -51,11 +48,11 @@ function parseData(crimeLog){
  initMap();
 }
 
-console.log(lat);
+
 
 //loading the XML file
 function startLoadXml() {
-
+console.log("startLoadXml");
 $.ajax({
 type: "GET",
 url: "crimeLog.xml",
@@ -94,7 +91,7 @@ $("#person").append(htmlBottom);
 
 }
 
-creating the map
+//creating the map
   function initMap(){
     var options = {
       zoom: 15,
@@ -253,7 +250,13 @@ creating the map
 
 
 
-  //creating the map spider version
+
+
+
+
+
+
+  // //creating the map spider version
   //
   // function initMap(){
   //   var options = {
