@@ -1,0 +1,47 @@
+.sprite {
+    background-image: url(../images/spritesheet-2.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-hamburger-mobile {
+    width: 41px;
+    height: 36px;
+    background-position: -5px -5px;
+}
+
+.sprite-logo {
+    width: 380px;
+    height: 87px;
+    background-position: -5px -51px;
+}
+
+.sprite-search {
+    width: 320px;
+    height: 77px;
+    background-position: -5px -148px;
+}
+
+.sprite-sections {
+    width: 228px;
+    height: 77px;
+    background-position: -5px -235px;
+}
+
+.sprite-sign-in {
+    width: 428px;
+    height: 77px;
+    background-position: -395px -5px;
+}
+
+.sprite-subscribe {
+    width: 198px;
+    height: 77px;
+    background-position: -395px -92px;
+}
+
+.sprite-subscriber-mobile {
+    width: 41px;
+    height: 36px;
+    background-position: -56px -5px;
+}

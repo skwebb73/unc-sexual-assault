@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Case>2015004970</Case>
+    <Reported>11/1/15 0:00</Reported>
+    <Address>HINTON JAMES RES HALL UNC</Address>
+    <date>11/1/15</date>
+    <time>0:00</time>
+    <Description>RAPE ALLEGATION</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>D</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0432903</lon>
+    <lat>35.9023883</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HINTON JAMES RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2015005462</Case>
+    <Reported>11/27/15 0:00</Reported>
+    <Address>GRANVILLE TOWERS EAST UNC</Address>
+    <date>8/17/15</date>
+    <time>0:00</time>
+    <Description>CLERY - ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0567815</lon>
+    <lat>35.9111371</lat>
+    <geoAddress>granville towers east, 125 w franklin st, chapel hill, nc 27516, usa</geoAddress>
+    <address2>GRANVILLE TOWERS EAST UNC</address2>
+  </row>
+  <row>
+    <Case>2015005463</Case>
+    <Reported>11/27/15 0:00</Reported>
+    <Address>GRANVILLE TOWERS EAST UNC</Address>
+    <date>9/13/15</date>
+    <time>0:00</time>
+    <Description>CLERY - ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0567815</lon>
+    <lat>35.9111371</lat>
+    <geoAddress>granville towers east, 125 w franklin st, chapel hill, nc 27516, usa</geoAddress>
+    <address2>GRANVILLE TOWERS EAST UNC</address2>
+  </row>
+  <row>
+    <Case>2016000557</Case>
+    <Reported>2/3/16 0:00</Reported>
+    <Address>MORRISON RES HALL UNC</Address>
+    <date>1/30/16</date>
+    <time>0:00</time>
+    <Description>CLERY - ALLEGATION OF ATTEMPTED RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462187</lon>
+    <lat>35.9044505</lat>
+    <geoAddress>morrison residence hall, 445 paul hardin dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MORRISON RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016000997</Case>
+    <Reported>2/7/16 0:00</Reported>
+    <Address>ALEXANDER RES HALL UNC</Address>
+    <date>10/5/13</date>
+    <time>0:00</time>
+    <Description>CLERY- ALLEGATION OF SEXUAL ASSAULT</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462845</lon>
+    <lat>35.911323</lat>
+    <geoAddress>alexander residence hall, 207 raleigh st, chapel hill, nc 27514, usa</geoAddress>
+    <address2>ALEXANDER RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016001233</Case>
+    <Reported>3/4/16 18:00</Reported>
+    <Address>DAVIS WALTER R LIBRARY UNC</Address>
+    <date>3/4/16</date>
+    <time>17:44</time>
+    <Description>SEX OFFENSE - PEEPING TOM</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.048055</lon>
+    <lat>35.911048</lat>
+    <geoAddress>208 Raleigh St, Chapel Hill, NC 27514</geoAddress>
+    <address2>DAVIS WALTER R LIBRARY UNC</address2>
+  </row>
+  <row>
+    <Case>2016001594</Case>
+    <Reported>3/25/16 12:19</Reported>
+    <Address>RAM VILLAGE 4 APTS</Address>
+    <date>3/25/16</date>
+    <time>12:00</time>
+    <Description>SEX OFFENSE - SEXUAL ASSAULT</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0437032</lon>
+    <lat>35.9015287</lat>
+    <geoAddress>510 williamson dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 4 APTS</address2>
+  </row>
+  <row>
+    <Case>2016001692</Case>
+    <Reported>4/2/16 23:10</Reported>
+    <Address>GRANVILLE TOWERS EAST UNC</Address>
+    <date>4/2/16</date>
+    <time>20:45</time>
+    <Description>RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0567815</lon>
+    <lat>35.9111371</lat>
+    <geoAddress>granville towers east, 125 w franklin st, chapel hill, nc 27516, usa</geoAddress>
+    <address2>GRANVILLE TOWERS EAST UNC</address2>
+  </row>
+  <row>
+    <Case>2016001705</Case>
+    <Reported>4/4/16 0:00</Reported>
+    <Address>HOSPITALS UNIV OF NC UNC</Address>
+    <date>4/4/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF SEXUAL ASSAULT</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0508727</lon>
+    <lat>35.9117285</lat>
+    <geoAddress>200 e cameron ave, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HOSPITALS UNIV OF NC UNC</address2>
+  </row>
+  <row>
+    <Case>2016001732</Case>
+    <Reported>4/6/16 0:52</Reported>
+    <Address>TAYLOR RES HALL UNC</Address>
+    <date>3/23/16</date>
+    <time>0:01</time>
+    <Description>FONDLING</Description>
+    <Status>CLEARED BY AR</Status>
+    <Disposition>EST</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0436938</lon>
+    <lat>35.9015903</lat>
+    <geoAddress>taylor residence hall, 27514, chapel hill, nc 27514, usa</geoAddress>
+    <address2>TAYLOR RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016001959</Case>
+    <Reported>4/21/16 0:00</Reported>
+    <Address>GRANVILLE TOWERS WEST UNC</Address>
+    <date>4/16/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0573806</lon>
+    <lat>35.910963</lat>
+    <geoAddress>granville towers west, 1100 granville towers ln, chapel hill, nc 27516, usa</geoAddress>
+    <address2>GRANVILLE TOWERS WEST UNC</address2>
+  </row>
+  <row>
+    <Case>2016002881</Case>
+    <Reported>7/19/16 0:00</Reported>
+    <Address>MOREHEAD PLANETARIUM UNC</Address>
+    <date>7/17/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF FONDLING - SEXUAL ASSAULT</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.05051</lon>
+    <lat>35.9139033</lat>
+    <geoAddress>250 e franklin st, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MOREHEAD PLANETARIUM UNC</address2>
+  </row>
+  <row>
+    <Case>2016003389</Case>
+    <Reported>8/29/16 0:00</Reported>
+    <Address>AVERY RES HALL UNC</Address>
+    <date>9/25/14</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF FORCIBLE FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0442489</lon>
+    <lat>35.9062164</lat>
+    <geoAddress>avery residence hall, 295 ridge rd, chapel hill, nc 27514, usa</geoAddress>
+    <address2>AVERY RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016003612</Case>
+    <Reported>9/10/16 4:00</Reported>
+    <Address>CRAIGE RESIDENCE HALL UNC</Address>
+    <date>9/10/16</date>
+    <time>0:00</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0451087</lon>
+    <lat>35.9027323</lat>
+    <geoAddress>craige residence hall, 555 paul hardin dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CRAIGE RESIDENCE HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016003881</Case>
+    <Reported>9/26/16 0:00</Reported>
+    <Address>EHRINGHAUS RES HALL UNC</Address>
+    <date>9/26/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0428332</lon>
+    <lat>35.9043738</lat>
+    <geoAddress>450 ehringhaus dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EHRINGHAUS RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016004299</Case>
+    <Reported>10/10/16 0:00</Reported>
+    <Address>RAM VILLAGE 1 AT 560 PAUL HARDIN UNC</Address>
+    <date>10/10/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0459485</lon>
+    <lat>35.9019209</lat>
+    <geoAddress>560 paul hardin dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 1 AT 560 PAUL HARDIN UNC</address2>
+  </row>
+  <row>
+    <Case>2016004099</Case>
+    <Reported>10/13/16 0:00</Reported>
+    <Address>HORTON RES HALL UNC</Address>
+    <date>10/13/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0436973</lon>
+    <lat>35.9031141</lat>
+    <geoAddress>411 skipper bowles dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HORTON RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016004256</Case>
+    <Reported>10/24/16 0:00</Reported>
+    <Address>JOYNER RES HALL UNC</Address>
+    <date>10/24/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0467911</lon>
+    <lat>35.9117631</lat>
+    <geoAddress>205 raleigh st, chapel hill, nc 27514, usa</geoAddress>
+    <address2>JOYNER RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016004328</Case>
+    <Reported>10/27/16 0:00</Reported>
+    <Address>MORRISON RES HALL</Address>
+    <date>9/18/14</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462187</lon>
+    <lat>35.9044505</lat>
+    <geoAddress>morrison residence hall, 445 paul hardin dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MORRISON RES HALL</address2>
+  </row>
+  <row>
+    <Case>2016004329</Case>
+    <Reported>10/27/16 0:00</Reported>
+    <Address>MORRISON RES HALL</Address>
+    <date>10/5/14</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462187</lon>
+    <lat>35.9044505</lat>
+    <geoAddress>morrison residence hall, 445 paul hardin dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MORRISON RES HALL</address2>
+  </row>
+  <row>
+    <Case>2016004327</Case>
+    <Reported>10/27/16 0:00</Reported>
+    <Address>CRAIGE NORTH</Address>
+    <date>7/9/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0459004</lon>
+    <lat>35.903533</lat>
+    <geoAddress>craige north residence hall, 515 paul hardin dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CRAIGE NORTH</address2>
+  </row>
+  <row>
+    <Case>2016004585</Case>
+    <Reported>11/15/16 0:00</Reported>
+    <Address>CRAIGE HALL</Address>
+    <date>10/29/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION OF SEXUAL ASSAULT</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0451087</lon>
+    <lat>35.9027323</lat>
+    <geoAddress>craige residence hall, 555 paul hardin dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CRAIGE HALL</address2>
+  </row>
+  <row>
+    <Case>2016004708</Case>
+    <Reported>11/21/16 0:00</Reported>
+    <Address>COBB RES HALL UNC</Address>
+    <date>11/21/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION SEXUAL ASSAULT</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0447205</lon>
+    <lat>35.9123755</lat>
+    <geoAddress>110 country club rd, chapel hill, nc 27514, usa</geoAddress>
+    <address2>COBB RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2016004993</Case>
+    <Reported>12/12/16 0:00</Reported>
+    <Address>EVERETT RES HALL UNC</Address>
+    <date>12/4/16</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0463644</lon>
+    <lat>35.9125567</lat>
+    <geoAddress>201 raleigh st, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EVERETT RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2017000930</Case>
+    <Reported>2/17/17 0:00</Reported>
+    <Address>CRAIGE RES HALL UNC</Address>
+    <date>10/31/15</date>
+    <time>0:00</time>
+    <Description>CLERY ALLEGATION RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0451087</lon>
+    <lat>35.9027323</lat>
+    <geoAddress>craige residence hall, 555 paul hardin dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CRAIGE RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2017001258</Case>
+    <Reported>3/8/17 0:00</Reported>
+    <Address>HINTON JAMES RES HALL UNC</Address>
+    <date>11/27/16</date>
+    <time>0:00</time>
+    <Description>RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0432903</lon>
+    <lat>35.9023883</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HINTON JAMES RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2017001423</Case>
+    <Reported>3/24/17 0:00</Reported>
+    <Address>HINTON JAMES RES HALL UNC</Address>
+    <date>9/28/16</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0432903</lon>
+    <lat>35.9023883</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HINTON JAMES RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2017001455</Case>
+    <Reported>3/27/17 0:00</Reported>
+    <Address>PUBLIC SAFETY BLDG</Address>
+    <date>3/25/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.04721841</lon>
+    <lat>35.90434228</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PUBLIC SAFETY BLDG</address2>
+  </row>
+  <row>
+    <Case>2017001495</Case>
+    <Reported>3/29/17 0:00</Reported>
+    <Address>PLAYMAKERS THEATER</Address>
+    <date>3/19/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FORCIBLE FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-90.0891895</lon>
+    <lat>30.5149389</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PLAYMAKERS THEATER</address2>
+  </row>
+  <row>
+    <Case>2017001584</Case>
+    <Reported>4/4/17 0:00</Reported>
+    <Address>RESIDENCE HALL UPPER QUAD</Address>
+    <date>10/31/16</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>NA</lon>
+    <lat>NA</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RESIDENCE HALL UPPER QUAD</address2>
+  </row>
+  <row>
+    <Case>2017001575</Case>
+    <Reported>4/4/17 15:57</Reported>
+    <Address>HOSPITALS UNIV OF NC UNC</Address>
+    <date>4/4/17</date>
+    <time>15:57</time>
+    <Description>SEXUAL ASSAULT</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0508727</lon>
+    <lat>35.9117285</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HOSPITALS UNIV OF NC UNC</address2>
+  </row>
+  <row>
+    <Case>2017001639</Case>
+    <Reported>4/10/17 0:00</Reported>
+    <Address>GRANVILLE TOWERS EAST</Address>
+    <date>3/31/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT OF RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0567815</lon>
+    <lat>35.9111371</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>GRANVILLE TOWERS EAST</address2>
+  </row>
+  <row>
+    <Case>2017001695</Case>
+    <Reported>4/12/17 13:20</Reported>
+    <Address>BONDURANT HALL UNC</Address>
+    <date>4/12/17</date>
+    <time>13:15</time>
+    <Description>SEX OFFENSE - PEEPING TOM</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>IN CUSTODY OTHER JURISD.</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0524768</lon>
+    <lat>35.9058516</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>BONDURANT HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2017001705</Case>
+    <Reported>4/13/17 0:00</Reported>
+    <Address>HORTON RESIDENCE HALL</Address>
+    <date>2/1/15</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE AND DATING VIOLENCE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0436973</lon>
+    <lat>35.9031141</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HORTON RESIDENCE HALL</address2>
+  </row>
+  <row>
+    <Case>2017001814</Case>
+    <Reported>4/21/17 0:00</Reported>
+    <Address>PUBLIC SAFETY</Address>
+    <date>2/1/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.04721841</lon>
+    <lat>35.90434228</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PUBLIC SAFETY</address2>
+  </row>
+  <row>
+    <Case>2017001939</Case>
+    <Reported>5/3/17 0:00</Reported>
+    <Address>BROOKS HALL UNC</Address>
+    <date>5/3/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0469134</lon>
+    <lat>35.9049122</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>BROOKS HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2017002184</Case>
+    <Reported>5/22/17 0:00</Reported>
+    <Address>PI KAPPA ALPHA</Address>
+    <date>9/16/16</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FORCIBLE FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>D</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.05552908</lon>
+    <lat>35.91165627</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PI KAPPA ALPHA</address2>
+  </row>
+  <row>
+    <Case>2017002183</Case>
+    <Reported>5/22/17 0:00</Reported>
+    <Address>SIGMA CHI</Address>
+    <date>2/20/16</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.05520549</lon>
+    <lat>35.91177669</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>SIGMA CHI</address2>
+  </row>
+  <row>
+    <Case>2017003214</Case>
+    <Reported>7/19/17 0:00</Reported>
+    <Address>PUBLIC SAFETY BLDG</Address>
+    <date>8/1/14</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.04721841</lon>
+    <lat>35.90434228</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PUBLIC SAFETY BLDG</address2>
+  </row>
+  <row>
+    <Case>2017003215</Case>
+    <Reported>7/19/17 0:00</Reported>
+    <Address>HINTON JAMES RES HALL</Address>
+    <date>9/14/14</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0425269</lon>
+    <lat>35.9021649</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HINTON JAMES RES HALL</address2>
+  </row>
+  <row>
+    <Case>2017003744</Case>
+    <Reported>8/23/17 0:00</Reported>
+    <Address>PUBLIC SAFETY BLDG</Address>
+    <date>8/19/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.04721841</lon>
+    <lat>35.90434228</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PUBLIC SAFETY BLDG</address2>
+  </row>
+  <row>
+    <Case>2017004218</Case>
+    <Reported>9/18/17 0:00</Reported>
+    <Address>EHRINGHAUS RES HALL</Address>
+    <date>9/17/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FORCIBLE FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0429134</lon>
+    <lat>35.9043529</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EHRINGHAUS RES HALL</address2>
+  </row>
+  <row>
+    <Case>2017004292</Case>
+    <Reported>9/20/17 0:00</Reported>
+    <Address>EHRINGHAUS RES HALL</Address>
+    <date>9/9/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FORCIBLE FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0429134</lon>
+    <lat>35.9043529</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EHRINGHAUS RES HALL</address2>
+  </row>
+  <row>
+    <Case>2017004483</Case>
+    <Reported>10/1/17 0:00</Reported>
+    <Address>CARMICHAEL RES HALL UNC</Address>
+    <date>9/30/17</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - MALE RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0456876</lon>
+    <lat>35.9082141</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CARMICHAEL RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2017004558</Case>
+    <Reported>10/5/17 0:00</Reported>
+    <Address>HINTON JAMES</Address>
+    <date>11/14/14</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0425269</lon>
+    <lat>35.9021649</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HINTON JAMES</address2>
+  </row>
+  <row>
+    <Case>2017004722</Case>
+    <Reported>10/12/17 0:00</Reported>
+    <Address>RAM VILLAGE 5</Address>
+    <date>10/12/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT  ATTEMPTED RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0422977</lon>
+    <lat>35.9016156</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 5</address2>
+  </row>
+  <row>
+    <Case>2017004786</Case>
+    <Reported>10/16/17 0:00</Reported>
+    <Address>PUBLIC SAFETY BUILDING UNC</Address>
+    <date>10/16/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0472506</lon>
+    <lat>35.9040903</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PUBLIC SAFETY BUILDING UNC</address2>
+  </row>
+  <row>
+    <Case>2017005427</Case>
+    <Reported>11/15/17 0:00</Reported>
+    <Address>CRAIGE RESIDENCE HALL NORTH</Address>
+    <date>10/1/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0451087</lon>
+    <lat>35.9027323</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CRAIGE RESIDENCE HALL NORTH</address2>
+  </row>
+  <row>
+    <Case>2017005490</Case>
+    <Reported>11/17/17 0:00</Reported>
+    <Address>WINSTON RES HALL UNC</Address>
+    <date>11/1/17</date>
+    <time>0:00</time>
+    <Description>RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0461945</lon>
+    <lat>35.9103187</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>WINSTON RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2017005581</Case>
+    <Reported>11/28/17 0:00</Reported>
+    <Address>SIGMA NU FRATERNITY</Address>
+    <date>10/28/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>NA</lon>
+    <lat>NA</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>SIGMA NU FRATERNITY</address2>
+  </row>
+  <row>
+    <Case>2017005731</Case>
+    <Reported>12/8/17 0:00</Reported>
+    <Address>DAVIS WALTER R LIBRARY UNC</Address>
+    <date>12/8/17</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - INDECENT EXPOSURE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.048055</lon>
+    <lat>35.911048</lat>
+    <geoAddress>208 Raleigh St, Chapel Hill, NC 27514</geoAddress>
+    <address2>DAVIS WALTER R LIBRARY UNC</address2>
+  </row>
+  <row>
+    <Case>2017005803</Case>
+    <Reported>12/13/17 0:00</Reported>
+    <Address>RAMS VILLAGE 1</Address>
+    <date>4/1/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0459485</lon>
+    <lat>35.9019209</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAMS VILLAGE 1</address2>
+  </row>
+  <row>
+    <Case>2017005836</Case>
+    <Reported>12/18/17 0:00</Reported>
+    <Address>COBB RESIDENCE HALL</Address>
+    <date>11/18/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0447205</lon>
+    <lat>35.9123755</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>COBB RESIDENCE HALL</address2>
+  </row>
+  <row>
+    <Case>2017005848</Case>
+    <Reported>12/19/17 11:18</Reported>
+    <Address>MORRISON RES HALL UNC</Address>
+    <date>11/24/14</date>
+    <time>0:00</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462187</lon>
+    <lat>35.9044505</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MORRISON RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2018000329</Case>
+    <Reported>1/24/18 0:00</Reported>
+    <Address>RAMS VILLAGE 5</Address>
+    <date>1/12/18</date>
+    <time>0:00</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0422977</lon>
+    <lat>35.9016156</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAMS VILLAGE 5</address2>
+  </row>
+  <row>
+    <Case>2018000449</Case>
+    <Reported>1/31/18 0:00</Reported>
+    <Address>RAM VILLAGE 5</Address>
+    <date>1/27/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0422977</lon>
+    <lat>35.9016156</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 5</address2>
+  </row>
+  <row>
+    <Case>2018000500</Case>
+    <Reported>2/1/18 0:00</Reported>
+    <Address>RAM VILLAGE 5</Address>
+    <date>8/26/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0422977</lon>
+    <lat>35.9016156</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 5</address2>
+  </row>
+  <row>
+    <Case>2018000558</Case>
+    <Reported>2/6/18 0:00</Reported>
+    <Address>RAM VILLAGE 5</Address>
+    <date>1/27/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0422977</lon>
+    <lat>35.9016156</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 5</address2>
+  </row>
+  <row>
+    <Case>2018001535</Case>
+    <Reported>3/21/18 6:32</Reported>
+    <Address>RAM VILLAGE 5 AT 520 WILLIAMSON UNC</Address>
+    <date>3/21/18</date>
+    <time>0:46</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0422977</lon>
+    <lat>35.9016156</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 5 AT 520 WILLIAMSON UNC</address2>
+  </row>
+  <row>
+    <Case>2018001980</Case>
+    <Reported>4/16/18 8:58</Reported>
+    <Address>BAITY HILL 1600 UNC</Address>
+    <date>4/16/18</date>
+    <time>7:55</time>
+    <Description>SEXUAL ASSAULT</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0411521</lon>
+    <lat>35.8980563</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>BAITY HILL 1600 UNC</address2>
+  </row>
+  <row>
+    <Case>2018002005</Case>
+    <Reported>4/17/18 0:00</Reported>
+    <Address>KENAN RES HALL</Address>
+    <date>4/7/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0475154</lon>
+    <lat>35.9145763</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>KENAN RES HALL</address2>
+  </row>
+  <row>
+    <Case>2018002330</Case>
+    <Reported>5/10/18 0:00</Reported>
+    <Address>RAM VILLAGE 5</Address>
+    <date>1/27/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0422977</lon>
+    <lat>35.9016156</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 5</address2>
+  </row>
+  <row>
+    <Case>2018003801</Case>
+    <Reported>8/23/18 0:00</Reported>
+    <Address>PI LAMBDA PHI</Address>
+    <date>4/27/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.05564741</lon>
+    <lat>35.91059702</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PI LAMBDA PHI</address2>
+  </row>
+  <row>
+    <Case>2018003970</Case>
+    <Reported>9/5/18 0:00</Reported>
+    <Address>EHRINGHAUS</Address>
+    <date>8/29/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0426558</lon>
+    <lat>35.9039316</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EHRINGHAUS</address2>
+  </row>
+  <row>
+    <Case>2018004263</Case>
+    <Reported>9/28/18 0:00</Reported>
+    <Address>EHRINGHAUS RES HALL</Address>
+    <date>1/1/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING AND RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0429134</lon>
+    <lat>35.9043529</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EHRINGHAUS RES HALL</address2>
+  </row>
+  <row>
+    <Case>2018004349</Case>
+    <Reported>10/5/18 4:09</Reported>
+    <Address>CAROLINA INN UNC</Address>
+    <date>10/5/18</date>
+    <time>3:30</time>
+    <Description>SEXUAL BATTERY</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0542753</lon>
+    <lat>35.9097578</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CAROLINA INN UNC</address2>
+  </row>
+  <row>
+    <Case>2018004411</Case>
+    <Reported>10/10/18 0:00</Reported>
+    <Address>MORRISON RES HALL</Address>
+    <date>8/15/87</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462187</lon>
+    <lat>35.9044505</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MORRISON RES HALL</address2>
+  </row>
+  <row>
+    <Case>2018004848</Case>
+    <Reported>11/8/18 0:00</Reported>
+    <Address>PAUL HARDIN DR</Address>
+    <date>11/7/18</date>
+    <time>0:00</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0461637</lon>
+    <lat>35.9032187</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PAUL HARDIN DR</address2>
+  </row>
+  <row>
+    <Case>2018005309</Case>
+    <Reported>12/19/18 0:00</Reported>
+    <Address>RAM VILLAGE 3</Address>
+    <date>10/13/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462614</lon>
+    <lat>35.9024727</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 3</address2>
+  </row>
+  <row>
+    <Case>2019000437</Case>
+    <Reported>1/31/19 0:00</Reported>
+    <Address>CRAIGE RES HALL</Address>
+    <date>10/31/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT ATTEMPTED RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0451087</lon>
+    <lat>35.9027323</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CRAIGE RES HALL</address2>
+  </row>
+  <row>
+    <Case>2019000690</Case>
+    <Reported>2/14/19 0:00</Reported>
+    <Address>HINTON JAMES</Address>
+    <date>10/6/17</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0425269</lon>
+    <lat>35.9021649</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HINTON JAMES</address2>
+  </row>
+  <row>
+    <Case>2019000691</Case>
+    <Reported>2/14/19 0:00</Reported>
+    <Address>STACY RES HALL</Address>
+    <date>1/26/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.046137</lon>
+    <lat>35.9129617</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>STACY RES HALL</address2>
+  </row>
+  <row>
+    <Case>2019000718</Case>
+    <Reported>2/16/19 1:36</Reported>
+    <Address>GRANVILLE TOWERS WEST UNC</Address>
+    <date>2/16/19</date>
+    <time>1:00</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>PROSECUTION DECLINED</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0573806</lon>
+    <lat>35.910963</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>GRANVILLE TOWERS WEST UNC</address2>
+  </row>
+  <row>
+    <Case>2019001263</Case>
+    <Reported>3/19/19 0:00</Reported>
+    <Address>KAPPA PSI</Address>
+    <date>2/10/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>NA</lon>
+    <lat>NA</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>KAPPA PSI</address2>
+  </row>
+  <row>
+    <Case>2019001269</Case>
+    <Reported>3/19/19 0:00</Reported>
+    <Address>TAYLOR RES HALL UNC</Address>
+    <date>3/29/17</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - SODOMY (CRIME AGAINST NATURE)</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0436938</lon>
+    <lat>35.9015903</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>TAYLOR RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2019001301</Case>
+    <Reported>3/21/19 0:00</Reported>
+    <Address>RAM VILLAGE 3</Address>
+    <date>1/1/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE AND STALKING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462614</lon>
+    <lat>35.9024727</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAM VILLAGE 3</address2>
+  </row>
+  <row>
+    <Case>2019001302</Case>
+    <Reported>3/21/19 0:00</Reported>
+    <Address>HINTON JAMES RES HALL</Address>
+    <date>3/2/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0425269</lon>
+    <lat>35.9021649</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HINTON JAMES RES HALL</address2>
+  </row>
+  <row>
+    <Case>2019001604</Case>
+    <Reported>4/5/19 0:00</Reported>
+    <Address>GRANVILLE TOWERS</Address>
+    <date>2/16/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0574779</lon>
+    <lat>35.9103536</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>GRANVILLE TOWERS</address2>
+  </row>
+  <row>
+    <Case>2019001789</Case>
+    <Reported>4/12/19 0:00</Reported>
+    <Address>MANGUM RES HALL</Address>
+    <date>2/1/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FORCIBLE FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0474844</lon>
+    <lat>35.91198</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MANGUM RES HALL</address2>
+  </row>
+  <row>
+    <Case>2019001790</Case>
+    <Reported>4/12/19 0:00</Reported>
+    <Address>TAYLOR CAMPUS HEALTH</Address>
+    <date>12/1/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FORCIBLE FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0495593</lon>
+    <lat>35.9059147</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>TAYLOR CAMPUS HEALTH</address2>
+  </row>
+  <row>
+    <Case>2019001793</Case>
+    <Reported>4/12/19 0:00</Reported>
+    <Address>GRANVILLE TOWERS EAST</Address>
+    <date>5/2/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FORCIBLE FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0567815</lon>
+    <lat>35.9111371</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>GRANVILLE TOWERS EAST</address2>
+  </row>
+  <row>
+    <Case>2019001794</Case>
+    <Reported>4/12/19 0:00</Reported>
+    <Address>ENERGY SERVICES BUILDING</Address>
+    <date>4/22/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.05977882</lon>
+    <lat>35.93158052</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>ENERGY SERVICES BUILDING</address2>
+  </row>
+  <row>
+    <Case>2019001797</Case>
+    <Reported>4/12/19 0:00</Reported>
+    <Address>TAYLOR CAMPUS HEALTH</Address>
+    <date>8/14/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0495593</lon>
+    <lat>35.9059147</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>TAYLOR CAMPUS HEALTH</address2>
+  </row>
+  <row>
+    <Case>2019002452</Case>
+    <Reported>5/23/19 0:00</Reported>
+    <Address>FRATERNITY HOUSE</Address>
+    <date>9/5/15</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>NA</lon>
+    <lat>NA</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>FRATERNITY HOUSE</address2>
+  </row>
+  <row>
+    <Case>2019002529</Case>
+    <Reported>6/4/19 21:02</Reported>
+    <Address>HORTON RES HALL UNC</Address>
+    <date>6/4/19</date>
+    <time>21:02</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0436973</lon>
+    <lat>35.9031141</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HORTON RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2019002692</Case>
+    <Reported>6/19/19 0:00</Reported>
+    <Address>MORRISON RES HALL</Address>
+    <date>5/8/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462187</lon>
+    <lat>35.9044505</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MORRISON RES HALL</address2>
+  </row>
+  <row>
+    <Case>2019002694</Case>
+    <Reported>6/19/19 0:00</Reported>
+    <Address>UNKNOWN HOTEL</Address>
+    <date>9/5/04</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-89.6308659</lon>
+    <lat>20.9734856</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>UNKNOWN HOTEL</address2>
+  </row>
+  <row>
+    <Case>2019002692</Case>
+    <Reported>6/19/19 0:00</Reported>
+    <Address>MORRISON RES HALL</Address>
+    <date>5/8/19</date>
+    <time>0:00</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462187</lon>
+    <lat>35.9044505</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MORRISON RES HALL</address2>
+  </row>
+  <row>
+    <Case>2019003477</Case>
+    <Reported>8/26/19 9:03</Reported>
+    <Address>KENAN STADIUM UNC</Address>
+    <date>8/26/19</date>
+    <time>9:03</time>
+    <Description>SEXUAL BATTERY</Description>
+    <Status>CLEARED BY AR</Status>
+    <Disposition>EST</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0478649</lon>
+    <lat>35.9069535</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>KENAN STADIUM UNC</address2>
+  </row>
+  <row>
+    <Case>2019003706</Case>
+    <Reported>9/4/19 0:00</Reported>
+    <Address>RESIDENCE HALL</Address>
+    <date>1/1/16</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>NA</lon>
+    <lat>NA</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RESIDENCE HALL</address2>
+  </row>
+  <row>
+    <Case>2019004147</Case>
+    <Reported>9/26/19 0:00</Reported>
+    <Address>PI KAPPA ALPHA FRATERNITY</Address>
+    <date>9/6/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE AND FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.05552908</lon>
+    <lat>35.91165627</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>PI KAPPA ALPHA FRATERNITY</address2>
+  </row>
+  <row>
+    <Case>2019004489</Case>
+    <Reported>10/17/19 0:00</Reported>
+    <Address>HARDIN RES HALL</Address>
+    <date>9/28/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0461083</lon>
+    <lat>35.9039562</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HARDIN RES HALL</address2>
+  </row>
+  <row>
+    <Case>2019005489</Case>
+    <Reported>12/19/19 0:00</Reported>
+    <Address>UNC HOSPITAL</Address>
+    <date>11/6/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0494775</lon>
+    <lat>35.9039461</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>UNC HOSPITAL</address2>
+  </row>
+  <row>
+    <Case>2020000204</Case>
+    <Reported>1/19/20 4:51</Reported>
+    <Address>HARDIN RES HALL UNC</Address>
+    <date>1/19/20</date>
+    <time>0:30</time>
+    <Description>SEX OFFENSE - ALL OTHER</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0461083</lon>
+    <lat>35.9039562</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HARDIN RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2020000788</Case>
+    <Reported>3/5/20 0:00</Reported>
+    <Address>HANES ART</Address>
+    <date>3/3/20</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0543987</lon>
+    <lat>35.9123693</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HANES ART</address2>
+  </row>
+  <row>
+    <Case>2020000787</Case>
+    <Reported>3/5/20 0:00</Reported>
+    <Address>HANES ART</Address>
+    <date>3/3/20</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT STALKING AND FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0543987</lon>
+    <lat>35.9123693</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HANES ART</address2>
+  </row>
+  <row>
+    <Case>2020001288</Case>
+    <Reported>6/26/20 14:28</Reported>
+    <Address>GRIMES RES HALL UNC</Address>
+    <date>8/27/16</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - SEXUAL ASSAULT W/ AN OBJECT</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0484082</lon>
+    <lat>35.9123937</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>GRIMES RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2020001339</Case>
+    <Reported>7/9/20 0:00</Reported>
+    <Address>KAPPA KAPPA GAMMA HOUSE/PITTSBORO ST</Address>
+    <date>11/20/19</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE AND AGGRAVATED ASSAULT</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0547756</lon>
+    <lat>35.9071584</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>KAPPA KAPPA GAMMA HOUSE/PITTSBORO ST</address2>
+  </row>
+  <row>
+    <Case>2020001443</Case>
+    <Reported>7/24/20 14:11</Reported>
+    <Address>SOCCER CAMP ON CAMPUS</Address>
+    <date>7/1/05</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - ALL OTHER</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>NA</lon>
+    <lat>NA</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>SOCCER CAMP ON CAMPUS</address2>
+  </row>
+  <row>
+    <Case>2020001497</Case>
+    <Reported>8/1/20 0:00</Reported>
+    <Address>EHRINGHAUS RES HALL</Address>
+    <date>8/1/20</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - SODOMY (CRIME AGAINST NATURE)</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0429134</lon>
+    <lat>35.9043529</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EHRINGHAUS RES HALL</address2>
+  </row>
+  <row>
+    <Case>2020001497</Case>
+    <Reported>8/1/20 0:00</Reported>
+    <Address>EHRINGHAUS RES HALL</Address>
+    <date>8/1/20</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0429134</lon>
+    <lat>35.9043529</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EHRINGHAUS RES HALL</address2>
+  </row>
+  <row>
+    <Case>2020001498</Case>
+    <Reported>8/3/20 0:00</Reported>
+    <Address>LEWIS RES HALL</Address>
+    <date>1/1/18</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0469902</lon>
+    <lat>35.9123592</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>LEWIS RES HALL</address2>
+  </row>
+  <row>
+    <Case>2020001685</Case>
+    <Reported>8/25/20 15:14</Reported>
+    <Address>BURNETT WOMACK UNC</Address>
+    <date>8/25/20</date>
+    <time>15:05</time>
+    <Description>SEX OFFENSE - PEEPING WHILE POSSESSING A DEVICE CAPABLE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0522247</lon>
+    <lat>35.9049119</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>BURNETT WOMACK UNC</address2>
+  </row>
+  <row>
+    <Case>2021000253</Case>
+    <Reported>2/12/21 0:00</Reported>
+    <Address>AYCOCK FAMILY PRACTICE UNC</Address>
+    <date>1/1/91</date>
+    <time>0:00</time>
+    <Description>SEXUAL BATTERY OF A MINOR</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0469134</lon>
+    <lat>35.9049122</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>AYCOCK FAMILY PRACTICE UNC</address2>
+  </row>
+  <row>
+    <Case>2021000269</Case>
+    <Reported>2/15/21 0:00</Reported>
+    <Address>RAMS VILLAGE 3 UNC</Address>
+    <date>2/8/21</date>
+    <time>0:00</time>
+    <Description>SEXUAL BATTERY</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0462614</lon>
+    <lat>35.9024727</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>RAMS VILLAGE 3 UNC</address2>
+  </row>
+  <row>
+    <Case>2021000543</Case>
+    <Reported>3/17/21 0:00</Reported>
+    <Address>EHRINGHAUS RES HALL UNC</Address>
+    <date>8/20/20</date>
+    <time>0:00</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0428332</lon>
+    <lat>35.9043738</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>EHRINGHAUS RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2021000724</Case>
+    <Reported>4/22/21 0:00</Reported>
+    <Address>JOYNER RESIDENCE HALL</Address>
+    <date>3/30/21</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - ALL OTHER</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>VICTIM REFUSED TO COOPERATE</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0467911</lon>
+    <lat>35.9117631</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>JOYNER RESIDENCE HALL</address2>
+  </row>
+  <row>
+    <Case>2021001102</Case>
+    <Reported>6/29/21 15:25</Reported>
+    <Address>MANNING DR.</Address>
+    <date>6/29/21</date>
+    <time>15:15</time>
+    <Description>ASSAULT-PHYSICAL ASSAULT W/ SEXUAL MOTIVES</Description>
+    <Status>EXCEPT. CLEAR</Status>
+    <Disposition>IN CUSTODY OTHER JURISD.</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-87.3568138</lon>
+    <lat>36.613006</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MANNING DR.</address2>
+  </row>
+  <row>
+    <Case>2021002524</Case>
+    <Reported>11/24/21 0:00</Reported>
+    <Address>GRANVILLE TOWERS EAST</Address>
+    <date>9/18/21</date>
+    <time>0:00</time>
+    <Description>RAPE - FORCIBLE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0567815</lon>
+    <lat>35.9111371</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>GRANVILLE TOWERS EAST</address2>
+  </row>
+  <row>
+    <Case>2022000009</Case>
+    <Reported>1/3/22 0:00</Reported>
+    <Address>KOURY NATATORIUM UNC</Address>
+    <date>1/1/90</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - MOLESTATION (CHILD, ETC)</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0428435</lon>
+    <lat>35.8995764</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>KOURY NATATORIUM UNC</address2>
+  </row>
+  <row>
+    <Case>2022000317</Case>
+    <Reported>2/17/22 0:00</Reported>
+    <Address>CONNOR RES HALL UNC</Address>
+    <date>8/15/21</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - SODOMY</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.046093</lon>
+    <lat>35.9109348</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CONNOR RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2022000887</Case>
+    <Reported>5/1/22 20:58</Reported>
+    <Address>MANNING PARKING LOT UNC</Address>
+    <date>5/1/22</date>
+    <time>16:00</time>
+    <Description>SEXUAL ASSAULT</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0469134</lon>
+    <lat>35.9049122</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>MANNING PARKING LOT UNC</address2>
+  </row>
+  <row>
+    <Case>2022000991</Case>
+    <Reported>5/12/22 0:00</Reported>
+    <Address>BOLIN CREEK</Address>
+    <date>5/4/22</date>
+    <time>0:00</time>
+    <Description>SEX OFFENSE - SODOMY</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0468964</lon>
+    <lat>35.9242714</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>BOLIN CREEK</address2>
+  </row>
+  <row>
+    <Case>2022001463</Case>
+    <Reported>8/4/22 8:04</Reported>
+    <Address>DOGWOOD PARKING DECK UNC</Address>
+    <date>8/4/22</date>
+    <time>8:03</time>
+    <Description>SEX OFFENSE - INDECENT EXPOSURE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0513055</lon>
+    <lat>35.9031259</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>DOGWOOD PARKING DECK UNC</address2>
+  </row>
+  <row>
+    <Case>2022001974</Case>
+    <Reported>9/16/22 0:00</Reported>
+    <Address>TAYLOR RESIDENCE HALL</Address>
+    <date>9/10/21</date>
+    <time>0:00</time>
+    <Description>CLERY REPORT RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-80.2794602</lon>
+    <lat>36.1341411</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>TAYLOR RESIDENCE HALL</address2>
+  </row>
+  <row>
+    <Case>2022002119</Case>
+    <Reported>10/1/22 19:23</Reported>
+    <Address>GRANVILLE TOWERS WEST UNC</Address>
+    <date>10/1/22</date>
+    <time>19:23</time>
+    <Description>SEX OFFENSE - (FONDLING)</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0573806</lon>
+    <lat>35.910963</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>GRANVILLE TOWERS WEST UNC</address2>
+  </row>
+  <row>
+    <Case>2022002191</Case>
+    <Reported>10/11/22 0:00</Reported>
+    <Address>HORTON RES HALL</Address>
+    <date>9/1/22</date>
+    <time>0:00</time>
+    <Description>CLERY FONDLING</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0436973</lon>
+    <lat>35.9031141</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HORTON RES HALL</address2>
+  </row>
+  <row>
+    <Case>2022002225</Case>
+    <Reported>10/14/22 10:41</Reported>
+    <Address>CARMICHAEL RES HALL UNC</Address>
+    <date>10/14/22</date>
+    <time>9:30</time>
+    <Description>SEX OFFENSE - PEEPING TOM</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0456876</lon>
+    <lat>35.9082141</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CARMICHAEL RES HALL UNC</address2>
+  </row>
+  <row>
+    <Case>2022002249</Case>
+    <Reported>10/16/22 21:28</Reported>
+    <Address>HOSPITALS UNIV OF NC UNC</Address>
+    <date>10/15/22</date>
+    <time>5:30</time>
+    <Description>CLERY RAPE</Description>
+    <Status>INACTIVE</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0508727</lon>
+    <lat>35.9117285</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HOSPITALS UNIV OF NC UNC</address2>
+  </row>
+  <row>
+    <Case>2022002270</Case>
+    <Reported>10/18/22 11:15</Reported>
+    <Address>HOSPITALS UNIV OF NC UNC</Address>
+    <date>10/16/22</date>
+    <time>23:00</time>
+    <Description>SEX OFFENSE - SODOMY</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0508727</lon>
+    <lat>35.9117285</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>HOSPITALS UNIV OF NC UNC</address2>
+  </row>
+  <row>
+    <Case>2022002294</Case>
+    <Reported>10/22/22 17:55</Reported>
+    <Address>CARMICHAEL RES HALL UNC</Address>
+    <date>10/22/22</date>
+    <time>17:00</time>
+    <Description>SEX OFFENSE - SODOMY</Description>
+    <Status>OPEN</Status>
+    <Disposition>NA</Disposition>
+    <Sexual_Assault>TRUE</Sexual_Assault>
+    <lon>-79.0456876</lon>
+    <lat>35.9082141</lat>
+    <geoAddress>hinton james residence hall, 515 hinton james dr, chapel hill, nc 27514, usa</geoAddress>
+    <address2>CARMICHAEL RES HALL UNC</address2>
+  </row>
+</root>
